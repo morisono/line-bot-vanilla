@@ -1,6 +1,6 @@
 # VanillaR
 
-**[English](docs/en/README.md)** | [Chinese](docs/zh/README.md) | [Japanese](docs/ja/README.md) | [Korean](docs/ko/README.md)
+**[English](../en/README.md)** | [Chinese](../zh/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md)
 
 VanillaR is a simple chatbot that can role-play as character you set.
 
@@ -34,3 +34,9 @@ VanillaR is a simple chatbot that can role-play as character you set.
 - https://linejs.evex.land/
 - https://langchain-ai.github.io/langgraphjs/
 - https://js.langchain.com/docs/introduction/
+
+
+
+--- 
+
+ **Prev:** []() | **Next:** [Quick Start Guide](../en/quick-start/001.md)
